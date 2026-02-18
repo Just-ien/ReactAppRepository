@@ -7,7 +7,7 @@ function Home() {
       {/* Profile Picture Placeholder */}
       <div className="profile-pic-container">
         <div className="profile-pic-placeholder">
-           <span><img src = {Pic} className = "pfp"></img></span>
+           <span><img src = {Pic} className = "pfp" alt = "pfp"></img></span>
         </div>
       </div>
 
